@@ -12,7 +12,7 @@ main(List<String> arguments) {
       print("satu");
       break;
     case 2:
-      print("tiga");
+      print("empat");
       break;
     default:
       print("bilangan lain");
